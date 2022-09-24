@@ -3,8 +3,8 @@ module.exports.info = {
 	version: "1.0.1",
 	permissions: 2,
 	author: {
-		name: "KCT",
-		facebook: "https://www.facebook.com/Vanguyen.0104"
+		name: "Henry",
+		facebook: "https://facebook.com/s2.henry"
 	},
 	description: {
         long: "Thêm thành viên mới vào box bằng link hoặc ID facebook của họ.",
