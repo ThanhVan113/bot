@@ -3,7 +3,7 @@ module.exports.info = {
 	version: "1.1.2",
 	permissions: 2,
 	author: {
-		name: "Henry",
+		name: "Thanhvan",
 		facebook: "https://facebook.com/s2.henry"
 	},
 	description: {
