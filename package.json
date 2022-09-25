@@ -1,0 +1,44 @@
+{
+    "name": "cherrybot",
+    "version": "5.0.9",
+    "description": "A simple bot for facebook messenger",
+    "main": "cherry.js",
+    "scripts": {
+        "start": "node cherry.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "thanhvan(Ry #2052)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hoahenry/Cherry"
+    },
+    "bugs": {
+        "url": "https://github.com/hoahenry/Cherry/issues"
+    },
+    "homepage": "https://github.com/hoahenry/Cherry#readme",
+    "keywords": [
+        "Bot",
+        "Ry #2052",
+        "Henry",
+        "Bot Chat Facebook",
+        "Bot Chat Messenger",
+        "AutoReply"
+    ],
+    "dependencies": {
+        "axios": "^0.26.1",
+        "canvas": "^2.9.1",
+        "child_process": "^1.0.2",
+        "express": "^4.17.3",
+        "fb-chat-api": "",
+        "fs-extra": "^10.0.1",
+        "genius-lyrics": "^4.3.6",
+        "moment-timezone": "",
+        "ngrok": "",
+        "prompts": "^2.4.2",
+        "semver": "",
+        "simple-youtube-api": "^5.2.1",
+        "string-similarity": "",
+        "ytdl-core": "^4.11.0"
+    }
+}
