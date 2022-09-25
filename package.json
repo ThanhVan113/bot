@@ -1,26 +1,26 @@
 {
-    "name": "cherrybot",
+    "name": "carrotbot",
     "version": "5.0.9",
     "description": "A simple bot for facebook messenger",
-    "main": "cherry.js",
+    "main": "carrot.js",
     "scripts": {
-        "start": "node cherry.js",
+        "start": "node carrot.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "thanhvan(Ry #2052)",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/hoahenry/Cherry"
+        "url": "https://github.com/ThanhVan113/bot.git"
     },
     "bugs": {
-        "url": "https://github.com/hoahenry/Cherry/issues"
+        "url": "https://github.com/ThanhVan113/bot.git/issues"
     },
-    "homepage": "https://github.com/hoahenry/Cherry#readme",
+    "homepage": "https://github.com/ThanhVan113/bot.git#readme",
     "keywords": [
         "Bot",
         "Ry #2052",
-        "Henry",
+        "thanhvan",
         "Bot Chat Facebook",
         "Bot Chat Messenger",
         "AutoReply"
